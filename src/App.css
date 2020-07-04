@@ -22,7 +22,7 @@
     padding: 0 20px;
   }
   
-  /* .btn {
+  .btn {
     display: inline-block;
     color: #fff;
     background-color: #3fb573;
@@ -47,7 +47,7 @@
     justify-content: center;
   }
   
-  .search {
+  /* .search {
     height: 100px;
   }
   
