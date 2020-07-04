@@ -47,7 +47,7 @@
     justify-content: center;
   }
   
-  /* .search {
+  .search {
     height: 100px;
   }
   
@@ -130,4 +130,4 @@
     .cards {
       grid-template-columns: 1fr;
     }
-  } */
+  }
